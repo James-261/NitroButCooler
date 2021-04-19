@@ -1,0 +1,7 @@
+File location of nitro.py: 
+File location of pythonw.exe: 
+
+
+Need to change os.system User person name and nitro.py file name
+
+Edit amogus.bat to the correct file locations as well

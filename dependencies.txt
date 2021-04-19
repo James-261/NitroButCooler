@@ -1,0 +1,7 @@
+psutil
+time
+pynput
+os
+sys
+tkinter / tk / ttk
+pyperclip
